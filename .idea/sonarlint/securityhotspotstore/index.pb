@@ -22,3 +22,7 @@ B
 config/config.js,6\c\6ce7ce03babbccbd9b2d3b52b935730e1b03388e
 7
 bin/www,f\9\f9f3ad31c1666c9d010b84cbbe24e70370a40411
+]
+-migrations/20240403063325-create-tbl-users.js,1\e\1e72840437142751bc9ee988c012f69ee00d8229
+k
+;migrations/20240403063535-create-crete-tbl-refresh-token.js,6\a\6a323e867e2210ff5181737c9260e519c24c5471
